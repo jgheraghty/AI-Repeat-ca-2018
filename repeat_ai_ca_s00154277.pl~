@@ -1,5 +1,5 @@
 % 1
-
+%
 % Prolog representation of Graph
 
 node('a','b',2).
